@@ -1,0 +1,51 @@
+/* ID Selector */
+.text-paragraf {
+    color: green;
+}
+
+#paragraf-1 {
+    color: red;
+} 
+#intro {
+    background: #418fb1;
+    border: 2px solid #099249;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+} 
+p {
+    color: blue;
+}
+h1 {
+    color: blue;
+}
+
+#intro h1 {
+    color: white;
+}
+/* Class Selector */ 
+.button { 
+padding: 15px 20px; 
+background: #bebcbd; 
+color: #fff; 
+display: inline-block; 
+margin: 10px; 
+text-decoration: none; 
+} 
+.btn-primary { 
+background: #E42A42; 
+}
+nav { 
+background: #20A759; 
+color:#fff; 
+padding: 10px; 
+} 
+nav a { 
+color: #fff; 
+text-decoration: none; 
+padding:10px 20px; 
+} 
+nav .active,  
+nav a:hover { 
+background: #0B6B3A; 
+} 
