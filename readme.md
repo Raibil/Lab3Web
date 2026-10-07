@@ -1,8 +1,8 @@
 # LAPORAN PRAKTIKUM 3 — CSS DASAR
 
-**Nama:** [Nama Anda]
-**NIM:** [NIM Anda]
-**Kelas:** [Kelas Anda]
+**Nama:** Raihan Nabil Mas'ud
+**NIM:** 312510094
+**Kelas:** I.25.1A
 **Mata Kuliah:** Pemrograman Web
 
 ---
