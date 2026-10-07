@@ -213,7 +213,7 @@ maka `<h1>` yang berada di dalam `#intro` akan menggunakan aturan `#intro h1`.
 
 ### Screenshot:
 
-[Hasil Eksperimen](screenshots/07-eksperimen-css-jawaban.png)
+![Hasil Eksperimen](screenshots/07-eksperimen-css-jawaban.png)
 
 ---
 
@@ -247,7 +247,7 @@ Meskipun terdapat aturan `color: blue` pada CSS, teks paragraf akan ditampilkan 
 
 ### Screenshot
 
-[Hasil Eksperimen](screenshots/08-eksperimen-css-jawaban.png)
+![Hasil Eksperimen](screenshots/08-eksperimen-css-jawaban.png)
 
 ---
 
@@ -283,6 +283,6 @@ Hal tersebut terjadi karena **ID Selector memiliki specificity yang lebih tinggi
 
 ### Screeshot
 
-[Hasil Eksperimen](screenshots/09-eksperimen-css-jawaban.png)
+![Hasil Eksperimen](screenshots/09-eksperimen-css-jawaban.png)
 
 ---
